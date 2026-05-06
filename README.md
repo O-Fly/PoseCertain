@@ -48,12 +48,12 @@ datasets/
 
 ## 🚀 Pretrained Weights
 
-Download pretrained weights  place under:
+Download pretrained weights  and place under:(but it is not available)
 
 ```
 models/logs/speed20260413T1059/weights_best.h5
-```**
-but its not available now cause i am a new bird**
+```
+
 ---
 
 ## 🔍 Run Uncertainty Evaluation
@@ -67,15 +67,6 @@ Output: `real_ood_uncertainty.csv` containing per-image uncertainty metrics.
 
 ---
 
-## 📈 Results
-
-| Metric | Value |
-|--------|-------|
-| Loc Epistemic Unc vs Loc Error (r) | **+0.732** |
-| Ori Mutual Info vs Ori Error (r) | -0.771 |
-| Mean Ori Error (real domain) | 69.4° |
-
----
 
 ## 📜 Citation
 
