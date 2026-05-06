@@ -1,0 +1,12 @@
+# --- 核心环境 (已手动配置，锁定版本以防破坏) ---
+numpy<2.0
+
+# --- 图像处理与数据工具 ---
+pandas
+opencv-python
+scipy
+matplotlib
+scikit-image
+imgaug
+pillow
+tqdm
